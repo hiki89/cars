@@ -9,6 +9,6 @@
 
     </head>
     <body>
-        Welcome to Cars Project
+        Welcome {{ $name }}, You're {{ $age }} years old.
     </body>
 </html>
